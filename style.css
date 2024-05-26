@@ -1,0 +1,32 @@
+body{
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+}
+h1{
+    text-align: center;
+    align-items: center;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    max-width: fit-content;
+    max-height: fit-content;
+    align-items: center;
+    text-align: center;
+
+}
+.frst{
+    border: 5px solid black;
+}
+.imgs{
+    border:5 px solid black;
+    width: auto;
+    height: auto;
+    margin: 15px 20px;
+    
+}
+img{
+    max-width:250px;
+    max-height: 300px;
+}
