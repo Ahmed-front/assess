@@ -13,6 +13,7 @@ document.querySelector("#cat").onclick = function(e) {
     audio.play();
   }
 
+  document.getElementById("h").style.color="red";
 
 
 
